@@ -1,0 +1,5 @@
+conllu==4.4.1
+sacrebleu==2.0.0
+typing
+typing-extensions
+tqdm
